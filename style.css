@@ -1,0 +1,125 @@
+body {
+    background-color: #11b1c9;
+    margin: auto;
+}
+
+a {
+  color: #c3db49;
+}
+
+a:visited {
+  color: #262c3a;
+}
+
+a:active {
+  color: #262c3a;
+}
+
+.start {
+  background-color: #262c3a;
+  margin-top: 20px;
+}
+
+.item {
+  height: 40px;
+  text-align: center;
+  font-size: 22px;;
+  line-height: 0;
+  background: #262c3a;
+  color: #262c3a;
+  margin-top: 5px;
+}
+
+.one {
+  text-align: center;
+  margin-left: -1cm;
+}
+
+.one a {
+  padding: 1em;
+  background: #262c3a;
+  border-right: 1px solid black;
+  color: #11b1c9;
+}
+
+.one a:hover {
+  background: black;
+}
+
+.one li {
+  display: inline;
+}
+
+.struct {
+  max-width:960px;
+  margin: 0 auto;
+  padding:10px;
+}
+
+#shapka {
+  background-color: #262c3a;
+  height: 200px;
+  width: 100%;
+}
+
+#logo {
+  position: absolute;
+  left: 200px;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
+}
+
+#txt {
+  color: #11b1c9;
+  position:absolute;
+  margin-left: 120px;
+  margin-top: 75px;
+  font-size: 56px;
+}
+
+
+
+table {
+    border: 1px solid #262c3a;
+    text-align: center;
+    padding: 5px;
+    width: 400px;
+  }
+
+  th {
+    border: 1px solid #262c3a;
+  }
+
+  td {
+    border: 1px solid #262c3a;
+  }
+
+  .ta {
+    background-color: #262c3a;
+  }
+
+input {
+
+  margin-bottom: 10px;
+}
+
+
+.ifooter {
+  margin-top: 50px;
+  background: #262c3a;
+  height: 100px;
+  color: #11b1c9;
+}
+
+.tab {
+  background-color: #262c3a;
+}
+
+#head3{
+  margin-top: 50px;
+}
+
+#forum {
+  text-align: center;
+}
